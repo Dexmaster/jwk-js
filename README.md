@@ -1,4 +1,4 @@
-# оцл-js
+# jwk-js
 
 JavaScript library for key parsing
 
